@@ -16,6 +16,4 @@ Die Aktualisierung dieses Bildes kann einige Minuten dauern.
 
 ![Eine gerenderte Ansicht der Blöcke](https://github.com/mamacodet/calliopemini-gesicht/raw/master/.github/makecode/blocks.png)
 
-![Eine gerenderte Ansicht der Blöcke](https://github.com/mamacodet/calliopemini-smartlicht/raw/master/calliopemini-smartlicht.png)
-
 ### Viel Spaß! 🙂
